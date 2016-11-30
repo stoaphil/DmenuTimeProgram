@@ -1,2 +1,2 @@
 # DmenuTimeProgram
-C program to dosplay date and time in dmenu.
+C program to display date and time in dmenu.
